@@ -1,6 +1,6 @@
 # Moccasin Project
 
-🐍 Welcome to your Moccasin project!
+🐍 Welcome to the Moccasin project!
 
 ## Quickstart
 

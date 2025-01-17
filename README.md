@@ -1,22 +1,22 @@
-Buy Me A Coffee (Vyper Implementation)
+# Buy Me A Coffee 
 
-Overview
+## Overview
 
 This repository contains a "Buy Me A Coffee" app built using the Vyper smart contract language. The project enables users to send ETH as a form of appreciation, while maintaining a minimum contribution threshold in USD. The contract also supports owner-controlled fund withdrawals.
 
-Features
+## Features
 
-Minimum Funding Threshold: Ensures that all contributions meet a minimum USD value equivalent.
+- Minimum Funding Threshold: Ensures that all contributions meet a minimum USD value equivalent.
 
-Owner-Only Withdrawal: Only the contract owner can withdraw funds.
+- Owner-Only Withdrawal: Only the contract owner can withdraw funds.
 
-ETH to USD Conversion: Uses a Chainlink price feed to determine the ETH-to-USD conversion rate.
+- ETH to USD Conversion: Uses a Chainlink price feed to determine the ETH-to-USD conversion rate.
 
-Decentralized Funding: Keeps track of all funders and their contributions.
+- Decentralized Funding: Keeps track of all funders and their contributions.
 
-Extendable and Secure: Adheres to secure smart contract practices with clear assertions and access control.
+- Extendable and Secure: Adheres to secure smart contract practices with clear assertions and access control.
 
-Setup & Deployment
+## Setup & Deployment
 
 1. Clone the Repository
 
